@@ -1,0 +1,49 @@
+body {
+  background-color: hsl(47, 88%, 63%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+section {
+  width: 387px;
+  height: 525px;
+  border-radius: 10px;
+  background-color: hsl(0, 0%, 100%);
+  border: 3px solid black;
+  border-right: 10px solid black;
+  border-bottom: 10px solid black;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+.svg1 {
+  text-align: center;
+}
+svg {
+  margin-top: 20px;
+  border-radius: 10px;
+}
+.discription {
+  padding: 27px;
+}
+button {
+  border: none;
+  background-color: hsl(47, 88%, 63%);
+  width: 75px;
+  height: 25px;
+  border-radius: 5px;
+}
+#dispo {
+  width: 300px;
+}
+img {
+  width: 40px;
+  height: 40px;
+}
+.profile {
+  display: flex;
+}
+.text {
+  margin-top: 12px;
+  margin-left: 10px;
+}
